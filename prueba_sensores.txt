@@ -1,0 +1,7 @@
+presencia: https://drive.google.com/file/d/1U2I9ee5KhJFyC0cItEv771X0unxTJiun/view?usp=sharing
+display: https://drive.google.com/file/d/1aYq6JLEsGFafSnsebdQNwO6LriXCgjZE/view?usp=sharing
+pote: https://drive.google.com/file/d/1Y57iKI2uPIb57k6mawJpcS_Jbsr8KixH/view?usp=sharing
+ldr: https://drive.google.com/file/d/1s2EWHfa19yptG2Jq2Sd9fZiXAMiWGCMj/view?usp=sharing
+corriente: https://drive.google.com/file/d/1KD4qc94AkbZIOXXwDywt4Z7r_WJJCTqg/view?usp=sharing
+bmp: https://drive.google.com/file/d/1n7f9g2d7gdnDVphDl1R6oQasY5nlP8lG/view?usp=sharing
+boton y led: https://drive.google.com/file/d/1sDhAG8mCvA2LJ5sVF7oEOss6gs2UM-Mq/view?usp=sharing
